@@ -24,3 +24,6 @@ Let’s create a file *searchresults.py and paste the code below into it. Here i
 * You can start your scraper by typing the command:python3 searchresults.py
 * Once the scrape is complete you should see a file called search_results_output.jsonl with your data.
 * Here is an example for the URL : https://www.amazon.com/s?k=laptops
+
+
+![Tinkter](https://dominik-spieler.com/wp-content/uploads/2019/03/PythonBrowserBot-2-740x414.png)
